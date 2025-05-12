@@ -1,11 +1,7 @@
-#bestcf.030101.xyz:8880#bestcf_8880
+bestcf.030101.xyz:8880#bestcf_8880
 #ai.cloudflare.182682.xyz:8880#CloudFlare_8880
 #cloudflare.cdnjson.com:8880#cdnjson_8880
 #linux.do:8880#linux.do_8880
 #csgo.com:8880#csgo_8880
 #visa.cn:8880#visa_8880
 104.26.7.148:8880
-172.64.146.83:8880
-172.64.153.141:8880
-104.25.252.186:8880
-104.25.245.254:8880
