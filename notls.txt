@@ -4,4 +4,4 @@ bestcf.030101.xyz:8880#bestcf_8880
 #linux.do:8880#linux.do_8880
 #csgo.com:8880#csgo_8880
 #visa.cn:8880#visa_8880
-104.26.7.148:80#US
+162.159.129.251:80#JP
